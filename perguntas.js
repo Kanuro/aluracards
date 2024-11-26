@@ -1,22 +1,22 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'OneQuiz',
+    'Quem deu o chapéu de palha para Luffy?',
+    'Shanks o ruivo.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'OneQuiz',
+    'Há quantos membros no bando do Chapéu de palha até o momento?',
+    'até o momento possuem 10 membros no bando.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'OneQuiz',
+    'O que significa o simbolo de caveira nas bandeira piratas?',
+    'podem significar a morte ou a esperança.'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'OneQuiz',
+    'Quem é considerado o homem mais forte no mundo de One Piece?',
+    'o capitão pirata Barba branca (Edward Newgate).'
 )
